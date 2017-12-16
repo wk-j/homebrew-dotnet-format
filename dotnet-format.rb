@@ -1,4 +1,4 @@
-class DotNetFilter < Formula
+class DotnetFormat < Formula
   desc "Format C# document using Roslyn"
   homepage "https://github.com/wk-j/dotnet-format"
   url "https://github.com/wk-j/dotnet-format/releases/download/0.1.0/dotnet-format.zip"

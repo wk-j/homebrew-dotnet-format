@@ -1,7 +1,10 @@
-## .NET Format Homebrew Tap
+## Homebrew Tap
 
 ```
 brew tap wk-j/tab
 brew update
-brew instsall dotnet-format
+```
+
+```
+brew install dotnet-format
 ```
