@@ -13,7 +13,7 @@ class DotnetFormat < Formula
     # To match non-mono install, create an `omnisharp' shell script.
     (bin/"dotnet-format").write <<-EOS.undent
       #!/usr/bin/env sh
-      mono /usr/local/opt/dotnet-format/DotNetFormat.exe $@
+      mono /usr/local/opt/dotnet-format/libexec/DotNetFormat.exe $@
     EOS
   end
 
