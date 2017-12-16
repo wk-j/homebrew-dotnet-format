@@ -3,7 +3,7 @@ class DotnetFormat < Formula
   homepage "https://github.com/wk-j/dotnet-format"
   url "https://github.com/wk-j/dotnet-format/releases/download/0.2.0/dotnet-format.0.2.0.zip"
   version "0.2.0"
-  sha256 "279f9e151cf39a7f5bc35e814340bb7477c102cd2d28bba7af650a26ec2b99c0"
+  sha256 "e7e48d68ccf3fcd6a316f901fb50c6a24ab74a27a4bcb7aa76b828f975bddf72"
 
   # depends_on "mono" => :recommended
 
