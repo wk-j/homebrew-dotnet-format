@@ -1,9 +1,9 @@
 class DotnetFormat < Formula
   desc "Format C# document using Roslyn"
   homepage "https://github.com/wk-j/dotnet-format"
-  url "https://github.com/wk-j/dotnet-format/releases/download/0.3.0/dotnet-format.0.3.0.zip"
-  version "0.3.0"
-  sha256 "f21e72f5b2123996754d707b68b953078ecab61a0de455b88fd59ce672a17370"
+  url "https://github.com/wk-j/dotnet-format/releases/download/0.4.0/dotnet-format.0.4.0.zip"
+  version "0.4.0"
+  sha256 "d83282dc5f5cbe10e3bc6ea6bc164eb1f762060fbdb4168cc8daae95a3e09ce5"
 
   # depends_on "mono" => :recommended
 
