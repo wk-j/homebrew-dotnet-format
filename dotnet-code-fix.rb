@@ -3,7 +3,7 @@ class DotnetCodeFix < Formula
   homepage "https://github.com/wk-j/dotnet-code-fix"
   url "https://github.com/wk-j/dotnet-code-fix/releases/download/0.1.0/dotnet-code-fix.0.1.0.zip"
   version "0.1.0"
-  sha256 "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+  sha256 "b9b93b14b79d64c5cdfaf126cc9d2be7cfd2056f4c7a9d622aaacecac18919a5"
 
   # depends_on "mono" => :recommended
 
