@@ -1,4 +1,4 @@
-class DotnetFormat < Formula
+class DotnetCodeFix < Formula
   desc "Fix C# document using Roslyn"
   homepage "https://github.com/wk-j/dotnet-code-fix"
   url "https://github.com/wk-j/dotnet-code-fix/releases/download/0.1.0/dotnet-code-fix.0.1.0.zip"
