@@ -11,7 +11,7 @@ class DotnetCodeFix < Formula
     libexec.install Dir["*"]
 
     # To match non-mono install, create an `omnisharp' shell script.
-    (bin/"dotnet-format").write <<-EOS.undent
+    (bin/"dotnet-code-fix").write <<-EOS.undent
       #!/usr/bin/env sh
       dotnet /usr/local/opt/dotnet-code-fix/libexec/DotNetCodeFix.dll $@
     EOS
