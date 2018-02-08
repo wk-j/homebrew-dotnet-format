@@ -1,9 +1,9 @@
 class GithubContributions < Formula
   desc "GitHub contributions"
   homepage "https://github.com/wk-j/github-contributions"
-  url "https://github.com/wk-j/github-contributions/releases/download/0.1.0/github-contributions.0.1.0.zip"
-  version "0.1.0"
-  sha256 "7346e2565db70469b3ce668ed89c132678c1ebce5ec7623dcb8b5b9dfa09ad54"
+  url "https://github.com/wk-j/github-contributions/releases/download/0.2.0/github-contributions.0.2.0.zip"
+  version "0.2.0"
+  sha256 "e22a641d5752ae2bcc086b81054779d7946b27fc9daf42fd70b6e19b3769e3f0"
 
   # depends_on "mono" => :recommended
 
