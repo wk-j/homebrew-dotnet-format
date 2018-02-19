@@ -3,7 +3,7 @@ class MyIpAddress < Formula
   homepage "https://github.com/wk-j/my-ip-address"
   url "https://github.com/wk-j/my-ip-address/releases/download/0.1.0/my-ip-address.0.1.0.zip"
   version "0.2.0"
-  sha256 "e22a641d5752ae2bcc086b81054779d7946b27fc9daf42fd70b6e19b3769e3f0"
+  sha256 "5231892570d550e38a07639cd8f659e0a0da4e3aa58083d2587a7b33de19ddf7"
 
   # depends_on "mono" => :recommended
 
